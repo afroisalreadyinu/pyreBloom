@@ -1,0 +1,4 @@
+setup.py
+pyreBloom/bloom.c
+pyreBloom/bloom.h
+pyreBloom/pyreBloom.c
